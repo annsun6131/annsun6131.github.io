@@ -1,9 +1,11 @@
 .Ukra {
+    display: inline-block;
     font-family: 'Papyrus', fantasy;
     color: blue;
 }
 
 .inian {
+    display: inline-block;
     font-family: 'Papyrus', fantasy;
     color: #e0a416;
 }

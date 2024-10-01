@@ -1,6 +1,10 @@
 .Ukra {
     display: inline-block;
     font-family: 'Papyrus', fantasy;
-    color: blue;
+    background-color: blue;
+    color: #e6b412;
 }
 
+p {
+    font-family: "Lucida Console", "Courier New", monospace;;
+}

@@ -1,10 +1,10 @@
 .Ukra {
     display: inline-block;
-    font-family: 'Papyrus', fantasy;
+    font-family: "Lucida Console", "Courier New", monospace;
     background-color: blue;
     color: #e6b412;
 }
 
 p {
-    font-family: "Lucida Console", "Courier New", monospace;;
+    font-family: "Lucida Console", "Courier New", monospace;
 }

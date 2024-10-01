@@ -1,8 +1,11 @@
 body {
     background-color: aquamarine;
     font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+.center {
     width: 50%;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .intro {
